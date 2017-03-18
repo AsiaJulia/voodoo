@@ -1,0 +1,41 @@
+body{
+		background: black;
+		color: purple;
+		text-align: center;
+	}
+
+ul{
+		text-align: center;
+	}
+div {
+	font-family: "Arial";
+}
+
+h1 {
+	font-size: 80px;
+}
+
+p {
+	font-size: 23px;
+}
+
+img {
+	font-size: 80px;
+}
+
+
+img{
+	width: 700px
+}
+
+.doll{
+	width: 650px
+}
+
+.chance{
+	width: 800px
+}
+
+h2{
+	font-size: 64px;
+}
